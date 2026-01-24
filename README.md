@@ -6,7 +6,7 @@
 <span style="color:#ff3b3b;">Cybersecurity</span> • <span style="color:#b3b3b3;">Detail-oriented</span>
 
 <!-- ✅ Put your image here (choose one): URL or repo path like assets/banner.png -->
-<img src="https://i.pinimg.com/736x/db/15/06/db15064e515aa41282f03ba897c5a5d5.jpg" alt="banner" width="75%" />
+<img src="https://i.pinimg.com/1200x/3b/74/71/3b7471e32825ba70ebb1c39bda7329f3.jpg" alt="banner" width="75%" />
 
 <br/>
 
