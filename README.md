@@ -9,7 +9,7 @@
   <img src="https://i.pinimg.com/1200x/3b/74/71/3b7471e32825ba70ebb1c39bda7329f3.jpg"
        alt="banner"
        width="75%"
-       style="border:2px solid #ff3b3b; border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);" />
+       style="border:2px solid #ff3b3b; border-radius:18px; box-shadow: 0 0 18px rgba(255,59,59,0.35);" />
 </div>
 
 
