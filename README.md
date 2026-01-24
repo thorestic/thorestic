@@ -5,18 +5,23 @@
 
 <span style="color:#ff3b3b;">Cybersecurity</span> • <span style="color:#b3b3b3;">Detail-oriented</span>
 
+<!-- ✅ Put your image here (choose one): URL or repo path like assets/banner.png -->
+<img src="https://i.pinimg.com/1200x/94/63/7e/94637efa5d7ff7605d1f7c3960fd6c12.jpg" alt="banner" width="75%" />
+
 <br/>
 
 <p>
-I’m a Cybersecurity learner focusing on building practical skills step by step.  
-Currently learning <b>Python</b> and <b>Linux</b> and exploring real-world security workflows.
+Cybersecurity learner focused on building practical skills step by step.  
+Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discord bots & more soon).
 </p>
 
-<br/>
-
-<!-- Minimal dark-style divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="85%" />
 </div>
+
+## Certifications
+- CompTIA A+
+- CompTIA Network+
+- EC-Council CSCU
 
 ## Focus
 - Python & Linux fundamentals (learning in progress)
@@ -26,11 +31,7 @@ Currently learning <b>Python</b> and <b>Linux</b> and exploring real-world secur
 ## Currently Learning
 - Python (automation & tooling)
 - Linux (terminal, system basics)
-
-## Roadmap
-- Build more security-focused tools
-- Improve scripting and automation
-- Expand into more projects over time
+- More certifications (in progress)
 
 ## Links
 - **Discord Server:** _add-your-link-here_
