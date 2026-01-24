@@ -39,7 +39,7 @@ Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discor
 - More certifications (in progress)
 
 ## Links
-- **Discord Server:** _add-your-link-here_
+- **Discord Server:** _https://discord.gg/f9QwjMutPU_
 - **Portfolio:** _add-your-link-here_
 
 <div align="center">
