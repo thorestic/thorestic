@@ -1,24 +1,44 @@
-# 💫 About Me:
-👋 Hi, I’m Mohammed<br>🎓 Cybersecurity student | 💻 Learning Python & HTML<br>🛠️ I love designing and building programs to improve my skills and grow my hands-on experience.<br>🔐 Interested in automation, security-related scripts, and simple web interfaces.<br>📌 Goal: keep learning by building and sharing projects on GitHub.
+<!-- ===== thorestic | README ===== -->
+<div align="center">
 
+# thorestic
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2St9x8arHa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-juma-b03059395) 
+<span style="color:#ff3b3b;">Cybersecurity</span> • <span style="color:#b3b3b3;">Detail-oriented</span>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thorestic&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thorestic&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorestic&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thorestic&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+<p>
+I’m a Cybersecurity learner focusing on building practical skills step by step.  
+Currently learning <b>Python</b> and <b>Linux</b> and exploring real-world security workflows.
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thorestic&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=thorestic&icon=2&color=4)](https://visitcount.itsvg.in)
+<!-- Minimal dark-style divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="85%" />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Focus
+- Python & Linux fundamentals (learning in progress)
+- Cybersecurity basics + hands-on practice
+- Discord bots (more projects coming soon)
+
+## Currently Learning
+- Python (automation & tooling)
+- Linux (terminal, system basics)
+
+## Roadmap
+- Build more security-focused tools
+- Improve scripting and automation
+- Expand into more projects over time
+
+## Links
+- **Discord Server:** _add-your-link-here_
+- **Portfolio:** _add-your-link-here_
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="85%" />
+  <br/>
+  <sub style="color:#8b8b8b;">Minimal. Clean. Always learning.</sub>
+</div>
