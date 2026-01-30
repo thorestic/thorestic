@@ -26,7 +26,9 @@ Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discor
 ## Certifications
 - CompTIA A+
 - CompTIA Network+
+- CompTIA Server+
 - EC-Council CSCU
+- ISC2 CC
 
 ## Focus
 - Python & Linux fundamentals (learning in progress)
