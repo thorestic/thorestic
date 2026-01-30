@@ -31,7 +31,7 @@ Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discor
 - ISC2 CC
 
 ## Focus
-- Python & Linux fundamentals (learning in progress)
+- Python & Linux fundamentals
 - Cybersecurity basics + hands-on practice
 - Discord bots (more projects coming soon)
 
