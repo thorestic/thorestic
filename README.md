@@ -28,6 +28,7 @@ Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discor
 - CompTIA Network+
 - CompTIA Server+
 - EC-Council CSCU
+- CCT
 - ISC2 CC
 
 ## Focus
