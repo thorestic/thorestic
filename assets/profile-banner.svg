@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="thorestic — Cybersecurity, Linux and practical tools">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#24352d" stroke-width="1" opacity=".35"/></pattern><linearGradient id="bg"><stop stop-color="#101a16"/><stop offset="1" stop-color="#111820"/></linearGradient></defs>
+<rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="14" fill="url(#grid)"/>
+<rect x="48" y="50" width="3" height="202" rx="1.5" fill="#5ecc95"/>
+<text x="78" y="84" fill="#77d6a7" font-family="monospace" font-size="16" letter-spacing="3">LEARN · BUILD · UNDERSTAND</text>
+<text x="74" y="165" fill="#f0f6f3" font-family="Arial,sans-serif" font-size="69" font-weight="700" letter-spacing="-3">thorestic</text>
+<text x="78" y="209" fill="#afbeb7" font-family="Arial,sans-serif" font-size="23">Cybersecurity · Linux · Practical tools</text>
+<g fill="none" stroke="#4baa7b" stroke-width="2" opacity=".6"><path d="M786 224V183H842V116H919V75H1114"/><path d="M813 254V216H885V150H960V106H1138"/><path d="M848 278V248H930V211H1020V161H1150"/><rect x="882" y="72" width="108" height="108" rx="10" fill="#14221d"/><rect x="906" y="96" width="60" height="60" rx="4"/><path d="M902 61V72M924 61V72M946 61V72M968 61V72M902 180V191M924 180V191M946 180V191M968 180V191M871 92H882M871 114H882M871 136H882M871 158H882M990 92H1001M990 114H1001M990 136H1001M990 158H1001"/></g>
+<g fill="#6aca98"><circle cx="786" cy="224" r="4"/><circle cx="813" cy="254" r="4"/><circle cx="848" cy="278" r="4"/><circle cx="1114" cy="75" r="4"/><circle cx="1138" cy="106" r="4"/><circle cx="1150" cy="161" r="4"/></g>
+<text x="918" y="138" fill="#91dbb4" font-family="monospace" font-size="29">&gt;_</text>
+</svg>

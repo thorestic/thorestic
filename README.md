@@ -1,29 +1,17 @@
-<!-- ===== thorestic | README ===== -->
-<div align="center">
+![thorestic: Cybersecurity, Linux, and practical tools](assets/profile-banner.svg)
 
-# thorestic
+**Cybersecurity · Detail-oriented**
 
-<span style="color:#ff3b3b;">Cybersecurity</span> • <span style="color:#b3b3b3;">Detail-oriented</span>
+Cybersecurity learner focused on building practical skills step by step. Currently learning **Python** and **Linux**, and building projects, including Discord bots.
 
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/3b/74/71/3b7471e32825ba70ebb1c39bda7329f3.jpg"
-       alt="banner"
-       width="75%"
-       style="border:2px solid #ff3b3b; border-radius:18px; box-shadow: 0 0 18px rgba(255,59,59,0.35);" />
-</div>
+## Selected projects
 
-
-<br/>
-
-<p>
-Cybersecurity learner focused on building practical skills step by step.  
-Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discord bots & more soon).
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="85%" />
-</div>
+- **[SSHGuard](https://github.com/thorestic/SSHGuard)** — A team-built SSH monitoring project with brute-force detection, temporary nftables blocking, and a monitoring dashboard.
+- **[Thorestic Privacy Gateway](https://github.com/thorestic/thorestic-privacy-gateway)** — A Raspberry Pi gateway with a FastAPI dashboard, network controls, and English/Arabic documentation.
+- **[IP-Tool](https://github.com/thorestic/IP-Tool)** — A Python/Tkinter desktop tool for IP lookup and authorized network scanning, with optional Nmap support.
 
 ## Certifications
+
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Server+
@@ -32,21 +20,25 @@ Currently learning <b>Python</b> and <b>Linux</b>, and building projects (Discor
 - ISC2 CC
 
 ## Focus
+
 - Python & Linux fundamentals
 - Cybersecurity basics + hands-on practice
-- Discord bots (more projects coming soon)
+- Discord bots, with more projects to come
 
-## Currently Learning
+## Tools & interests
+
+Python · Linux · Raspberry Pi · Arduino · C++
+
+## Currently learning
+
 - Python (automation & tooling)
 - Linux (terminal, system basics)
 - More certifications (in progress)
 
 ## Links
-- **Discord Server:** _https://discord.gg/f9QwjMutPU_
 
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="85%" />
-  <br/>
-  <sub style="color:#8b8b8b;">Minimal. Clean. Always learning.</sub>
-</div>
+- **Discord Server:** https://discord.gg/f9QwjMutPU
+
+---
+
+<sub>Minimal. Clean. Always learning.</sub>
